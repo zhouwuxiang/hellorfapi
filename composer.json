@@ -1,0 +1,14 @@
+{
+    "name": "zhouwuxiang/hellorfapi",
+    "description": "Website Zcool Hellorf API",
+    "require": {
+        "php": ">=5.5.9",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Zhou Wuxiang",
+            "email": "zwx213@qq.com"
+        }
+    ]
+}
