@@ -10,7 +10,5 @@
             "name": "Zhou Wuxiang",
             "email": "zwx213@qq.com"
         }
-    ],
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    ]
 }
